@@ -1,6 +1,6 @@
 # Forms
 
-Yes — besides uploaded documents, the online application requires you to complete several **in-form forms and data tables**. These are entered directly in Parts A–E and become the baseline for HKSTP’s milestone assessments. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
+The online application requires you to complete several **in-form forms and data tables**. These are entered directly in Parts A–E and become the baseline for HKSTP’s milestone assessments. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
 
 | # | Form Title | Format / source | Why it is needed |
 |---|---|---|---|
