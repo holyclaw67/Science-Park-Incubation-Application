@@ -1,4 +1,4 @@
-# Forms
+## Forms
 
 The online application requires you to complete several **in-form forms and data tables**. These are entered directly in Parts A–E and become the baseline for HKSTP’s milestone assessments. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
 
@@ -28,7 +28,7 @@ The online application requires you to complete several **in-form forms and data
 | 22 | **Business Plan Template / Notes** | Guidance in the Incubation Programme Guide | Defines the required content for the mandatory business plan, which must align with the milestone plan and financial projections.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf) |
 | 23 | **Final Declaration and Consent** | Online declaration, Part F | Confirms accuracy and completeness of all information, acknowledges HKSTP’s vetting and no-NDA position, and agrees to ongoing disclosure obligations.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf) |
 
-## Key reconciliation rules
+### Key reconciliation rules
 
 - **Shareholding:** Team-member shares plus all other corporate shareholders/investors must total 100%; founders collectively must hold at least 51% legally and beneficially. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
 - **Staffing:** The company must have at least two full-time staff at application; after admission, at least two full-time staff must be based at the Approved Space, and at least 50% of full-time staff there must conduct approved core R&D. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
@@ -36,10 +36,10 @@ The online application requires you to complete several **in-form forms and data
 - **Milestones:** The business plan, APM deck, product roadmap, customer targets, revenue forecast, headcount forecast, and funding forecast must tell one consistent story; material changes later require HKSTP’s prior written approval. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
 - **Funding:** Declare all other funding for the same R&D project; HKSTP generally prohibits double-dipping unless it grants written case-by-case approval. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf)
 - 
-# Documents
+## Documents
 Below is the complete document pack to prepare for the HKSTP Incubation application. The mandatory uploads are in **Part F**; several other documents become mandatory only if the corresponding information is declared in Parts A–E.
 
-## Always required
+### Always required
 
 | # | Document | Format / source | Why it is needed |
 |---|---|---|---|
@@ -51,7 +51,7 @@ Below is the complete document pack to prepare for the HKSTP Incubation applicat
 | 6 | **Incorporation Form (NNC1)** | PDF / image | Mandatory; verify shareholders, directors, registered address, and share capital against Parts A and B.  |
 | 7 | **Bank statements for the past 6 months** | PDF | Mandatory; should support the company’s cash position and Part D financial information.  |
 
-## Financial documents
+### Financial documents
 
 | # | Document | When required | Notes |
 |---|---|---|---|
@@ -61,7 +61,7 @@ Below is the complete document pack to prepare for the HKSTP Incubation applicat
 | 11 | **Special Resolution** | If applicable | Typically used to authorise the application, representative, or a relevant corporate action.  |
 | 12 | **Funding evidence** | If external funding is declared in Part D | For each grant, investment, loan, or funding programme: award letter, agreement, bank advice, investor document, or approval notice.  |
 
-## Company and shareholders
+### Company and shareholders
 
 | # | Document | When required | Notes |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Below is the complete document pack to prepare for the HKSTP Incubation applicat
 | 21 | **Board resolution** | If applicable | Use for authorisations or corporate actions relevant to the application.  |
 | 22 | **Partnership agreement** | If applicable | Upload if the company has a partnership arrangement.  |
 
-## Team and employment
+### Team and employment
 
 | # | Document | When required | Notes |
 |---|---|---|---|
@@ -98,7 +98,7 @@ Below is the complete document pack to prepare for the HKSTP Incubation applicat
 | 33 | **Partner evidence** | For each partner listed in Part E | LOI, MOU, agreement, email confirmation, or other documentary support.  |
 | 34 | **Related-party agreement** | If declared in Part C | Required for any commercial relationship with an entity connected to shareholders, directors, or senior management.  |
 
-## Priority packing list
+### Priority packing list
 
 For a typical newly incorporated start-up, prepare these files first:
 
@@ -117,12 +117,97 @@ For a typical newly incorporated start-up, prepare these files first:
 13. `IP_Evidence_[Patent/Trademark/Design].pdf`, for each IP item
 14. `Shareholder_Agreement.pdf` / `Convertible_Note.pdf` / `Option_Plan.pdf`, if applicable
 
-## Final checks
+## Checklists
 
-- Ensure every uploaded document is current, legible, and in the requested format; the application must be signed by an authorised representative.
-- Ensure the company has at least two full-time staff legally able to work in Hong Kong, and that founders collectively hold at least 51% of issued shares legally and beneficially.
-- Do not rely on HKSTP signing an NDA: submitted materials may be reviewed by HKSTP staff, advisers, and the Assessment Panel.
-- If HKSTP requests clarification, respond promptly; a delay exceeding two months causes the application to be treated as withdrawn.
+Below is a pre-submission checklist based on HKSTP’s current Incubation Programme Guide (v13) and Eligibility Criteria. The programme is three years; the applicant must be a Hong Kong technology start-up incorporated no more than five years before applying, with founders holding at least 51% and at least two legally employable full-time staff. [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf)
 
-引用：
- Hong Kong Science and Technology Parks Corporation https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf
+### Eligibility checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 1 | Years of operation | Company must have been incorporated **no more than 5 years** before the application submission date.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Certificate of Incorporation showing issue date. | ☐ |
+| 2 | Company form | Must be a Hong Kong company limited by shares incorporated under the Companies Ordinance.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | COI, BR certificate, NNC1, AOA. | ☐ |
+| 3 | Technology start-up status | Must be a technology start-up with an eligible innovative application/business model and R&D focus; HKSTP lists ICT, electronics, green technology, and precision engineering as relevant fields.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf) | Business plan, product/technology description, R&D roadmap. | ☐ |
+| 4 | Prior incubation status | Must not be a current incubatee of HKSTP, Cyberport, or HKSTP–Shenzhen Innovation and Technology Park; repeat applicants are limited to a second application.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Declaration in Part C; corporate/shareholder records if relevant. | ☐ |
+| 5 | Application completeness | Submit the designated application form with all required supporting documents.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Completed Parts A–F and document uploads. | ☐ |
+
+### Shareholding checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 6 | Founder ownership | Founders collectively must hold **at least 51% of issued shares**, both legally and beneficially, at application and throughout the programme.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Current cap table, share register, shareholder declarations. | ☐ |
+| 7 | Full shareholder disclosure | Disclose all shareholders and holdings up to the ultimate top-level shareholder.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | AOA, NAR1, corporate-structure chart, Companies Registry documents. | ☐ |
+| 8 | Corporate shareholders | Corporate shareholders must not be well-established, mature companies in the same industry conducting R&D on similar products/services.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Corporate registry extracts, ownership charts, parent-company documents. | ☐ |
+| 9 | Shareholder agreements | Declare shareholder agreements, trusts, convertible notes, share options, warrants, voting arrangements, and side letters.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Executed agreements and supporting documents. | ☐ |
+| 10 | Share transfers | Ensure all transfers are properly documented and reflected in the current cap table.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Instrument of transfer, stamp-duty Bought and Sold Note, board/shareholder resolutions. | ☐ |
+| 11 | Cap-table reconciliation | Team-member shares plus all other shareholders/investors must total **100%**. | Cap table and Part B entries. | ☐ |
+
+## Staffing checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 12 | Minimum full-time staff | Must employ **at least 2 full-time staff** at application.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Employment contracts, payroll/MPF records, organisation chart. | ☐ |
+| 13 | Work eligibility | All full-time staff must be legally able to work in Hong Kong.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | HKID, visa/employment-visa evidence, right-to-work documentation. | ☐ |
+| 14 | Post-admission staffing | After admission, maintain at least **2 full-time staff based at the Approved Space**.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Employment records, attendance/workspace records if requested. | ☐ |
+| 15 | R&D staffing ratio | At least **50% of full-time staff based at the Approved Space** must conduct the approved core R&D activities; this must not be fewer than 2 full-time staff.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Job descriptions, R&D allocation records, organisation chart. | ☐ |
+| 16 | Approved Space use | The Approved Space must be used primarily for R&D, not primarily for sales and marketing.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | R&D plan, workspace allocation, activity records. | ☐ |
+| 17 | Team CVs | Provide background and track records for core team members.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | CVs using HKSTP’s template; qualifications and employment evidence if needed. | ☐ |
+| 18 | Headcount forecast | Forecast technical, non-technical, and part-time headcount across the 33-month milestone plan. | Organisation chart and Part E staffing forecast. | ☐ |
+
+### Financial checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 19 | Paid-up capital | Enter the company’s current paid-up capital in HKD, consistent with statutory records. | Share register, annual return, bank evidence if needed. | ☐ |
+| 20 | Historical revenue | Enter revenue for the most recently completed financial year; use 0 if there was no revenue. | Management accounts or audited accounts. | ☐ |
+| 21 | Financial accounts | Upload third-party audited accounts; if the company is under 18 months old, upload management accounts.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Audited accounts or management accounts. | ☐ |
+| 22 | Bank statements | Provide the past six months of company bank statements.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Bank statements. | ☐ |
+| 23 | Cash-flow projection | Prepare a three-year projection covering opening cash, funding, sales revenue, cash out, and net balance by milestone period. | Cash-flow model and supporting assumptions. | ☐ |
+| 24 | Funding disclosure | Declare all external funding received or committed, including grants, investment, loans, and director loans. | Funding agreements, award letters, bank advices. | ☐ |
+| 25 | Public-funding overlap | Avoid double-dipping for the same R&D project unless HKSTP grants written case-by-case approval; disclose other funding sources for the project.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Funding declarations, project scopes, approval correspondence. | ☐ |
+| 26 | Ongoing record-keeping | Maintain complete accounting records; HKSTP may require audited statements within 90 days after each financial year-end.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Bookkeeping system, invoices, bank records, accounting files. | ☐ |
+
+### Business and IP checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 27 | Business plan | Submit a business plan covering innovation/technology, business model, team, and a three-year milestone plan.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/incu/incubation-programme-guide_v13_clean_26mar2026_released.pdf) | DOC/PDF business plan. | ☐ |
+| 28 | APM presentation | Prepare a PowerPoint deck of no more than 30 MB for the Assessment Panel Meeting.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | PPT deck. | ☐ |
+| 29 | Product / MVP plan | Commit to delivering R&D outcomes and an MVP with essential functions/features within the designated milestone period.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Product roadmap, MVP specification, prototype/demo evidence. | ☐ |
+| 30 | D-Day readiness | Demonstrate MVP development and a clear, concrete go-to-market/fundraising roadmap at the second milestone assessment (D-Day).  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | MVP demo, customer pipeline, GTM plan, fundraising plan. | ☐ |
+| 31 | SAFE requirement | To continue into Stage 2 (Years 2–3), the incubatee or required parent company must pass D-Day and sign a SAFE in favour of HKSTP or its designated subsidiary.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Awareness of SAFE terms; corporate approvals if needed. | ☐ |
+| 32 | IP disclosure | List awards, patents, trademarks, and registered designs; upload evidence for each. | Certificates, filing receipts, registration documents. | ☐ |
+| 33 | Technology rights | Confirm the company has rights to use any third-party or licensed technology. | Licence agreement or rights evidence. | ☐ |
+| 34 | IP non-infringement | Confirm the business and proposed project do not infringe third-party IP. | IP search / legal review, if applicable. | ☐ |
+
+### Related-party checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 35 | Incubation relationships | Declare any shareholder’s current or former connection with HKSTP, Cyberport, or HKSTP–Shenzhen Innovation and Technology Park incubation programmes.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Programme records, shareholder declarations. | ☐ |
+| 36 | Related-party dealings | Declare ongoing commercial relationships with entities connected to shareholders, directors, or senior management.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Contracts, invoices, agreements, relationship map. | ☐ |
+| 37 | HKSTP staff connections | Declare any acquaintance or family relationship between shareholders/directors/senior management and HKSTP staff.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Internal confirmation from each relevant person. | ☐ |
+| 38 | Conflict management | Understand that a declared conflict may result in the relevant assessment-panel member being excluded from the assessment.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Declaration completed accurately. | ☐ |
+
+### Submission checklist
+
+| # | Checklist item | Requirement / target | Evidence to prepare | Status |
+|---|---|---|---|---|
+| 39 | Data consistency | Ensure Parts A–E match the uploaded BR, COI, AOA, NAR1, accounts, bank statements, cap table, and business plan. | Cross-check spreadsheet. | ☐ |
+| 40 | Milestone consistency | Ensure business-plan milestones, Part E milestones, revenue forecast, staffing forecast, and cash-flow forecast align. | Integrated financial and milestone model. | ☐ |
+| 41 | Authorised submission | Have an authorised representative review and agree to the final declaration. | Board/shareholder authorisation if needed. | ☐ |
+| 42 | Information updates | Be prepared to update HKSTP immediately if any declared information changes.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Change-management process and contact person. | ☐ |
+| 43 | Clarification readiness | Respond promptly to HKSTP requests; a delay exceeding two months causes the application to be treated as withdrawn.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) | Document repository and named responder. | ☐ |
+
+### Critical dates and thresholds
+
+| Item | Threshold |
+|---|---|
+| Maximum company age at application | 5 years from incorporation.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Minimum founder ownership | 51% combined legal and beneficial ownership.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Minimum full-time staff at application | 2 staff, legally able to work in Hong Kong.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Minimum staff at Approved Space after admission | 2 full-time staff.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Minimum R&D staffing ratio at Approved Space | 50% of full-time staff, and not fewer than 2 full-time staff.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Programme duration | 3 years: IncuHatch in Year 1, IncuBoost in Years 2–3 subject to D-Day and SAFE.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| D-Day timing | During the second milestone assessment, covering months 10–12.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
+| Maximum workspace | 1,600 sq ft, subject to HKSTP’s discretion over allocation and location.  [hkstp](https://www.hkstp.org/-/media/corpsite/assets/programmes/incubation/eligibility_criteria_ipg_v13-0409.pdf) |
